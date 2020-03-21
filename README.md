@@ -21,7 +21,7 @@ In summary you may need to
 3) Either Do Style Transfer or Image reconstruction from layer 
 
 ### Image Reconstruction using VGG19 features
-Modify the layer of interest at **_Precomputing Source Style and Content Representation_** then run **_Recontstruction From Layer Experiment_**
+Modify the layer of interest at **_Precomputing Source Style and Content Representation_** then run **_Recontstruction From Layer Experiment_**.
 
 <p align="center">
   <img src="https://github.com/mohammed-elkomy/neural-style-transfer-tensorflow/blob/master/gifs/0.gif"  />
@@ -36,7 +36,7 @@ You may also modify the losses and the weighting of content and style loss.
 </p>
 
 ## Video to gif 
-Converting high resolution videos into gifs isn't as simple task, I used gifski(https://gif.ski/) it's a great and efficient tool for producing high-quality gifs
+Converting high resolution videos into gifs isn't a simple task, I used gifski(https://gif.ski/) it's a great and efficient tool for producing high-quality gifs.
 
 ### For More Gif Demos
 [Here](https://github.com/mohammed-elkomy/neural-style-transfer-tensorflow/tree/master/gifs)
