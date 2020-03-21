@@ -24,7 +24,7 @@ In summary you may need to
 Modify the layer of interest at **_Precomputing Source Style and Content Representation_** then run **_Recontstruction From Layer Experiment_**
 
 <p align="center">
-  <img src="htt ps://raw.githubusercontent.com/mohammed-elkomy/military-pp-auto/master/gifs/2w.gif"  />
+  <img src="https://github.com/mohammed-elkomy/neural-style-transfer-tensorflow/blob/master/gifs/0.gif"  />
 </p>
 
 ### Style Transfer Experiment
