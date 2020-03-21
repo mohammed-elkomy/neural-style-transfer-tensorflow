@@ -38,6 +38,8 @@ You may also modify the losses and the weighting of content and style loss.
 ## Video to gif 
 Converting high resolution videos into gifs isn't as simple task, I used gifski(https://gif.ski/) it's a great and efficient tool for producing high-quality gifs
 
+### For More Gif Demos
+[Here](https://github.com/mohammed-elkomy/neural-style-transfer-tensorflow/tree/master/gifs)
 
 ## Reference Papers:
 * [A Neural Algorithm of Artistic Style](http://arxiv.org/pdf/1508.06576v2.pdf)
