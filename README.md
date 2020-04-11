@@ -36,7 +36,7 @@ You may also modify the losses and the weighting of content and style loss.
 </p>
 
 ## Video to gif 
-Converting high resolution videos into gifs isn't a simple task, I used gifski(https://gif.ski/) it's a great and efficient tool for producing high-quality gifs.
+Converting high resolution videos into gifs isn't a simple task, I used [gifski](https://gif.ski/) it's a great and efficient tool for producing high-quality gifs.
 
 ### For More Gif Demos
 [Here](https://github.com/mohammed-elkomy/neural-style-transfer-tensorflow/tree/master/gifs)
